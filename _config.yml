@@ -6,20 +6,19 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Mijnfotos by Shinaola Agbede"
+title: "Mijnfotospace by Shinaola Agbede"
 subtitle: "Documenting through photos."
 author: "Shinaola Agbede"
 header:
- title: "Mijnfotos"
+ title: "Mijnfotospace"
  subtitle: "by Shinaola Agbede"
 footer:
  name: "Hey there, my name is Shinaola"
- bio: "I am a software developer from San Diego. I am interested in DevOps, penspinning, and jogging."
+ bio: "I am a software developer from San Diego. I am interested in skating, penspinning, and jogging."
 web_design: "AJ"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
-  blogsite: "https://ashinaola.github.io/PersonalPortfolioWebsite/"
   linkedin: "https://www.linkedin.com/in/shinaola-agbede-development/"
   github: "https://github.com/ashinaola"
