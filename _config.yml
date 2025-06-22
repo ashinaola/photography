@@ -6,15 +6,15 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Mijnfotospace by Shinaola Agbede"
+title: "Mijnfotospace"
 subtitle: "Documenting through photos."
-author: "Shinaola Agbede"
+author: "S.N.A"
 header:
  title: "Mijnfotospace"
- subtitle: "by Shinaola Agbede"
+ subtitle: "by {^-^}"
 footer:
  name: "Hey there, my name is Shinaola"
- bio: "I am a software developer from San Diego. I am interested in skating, penspinning, and jogging."
+ bio: "I am a software developer from San Diego. I am interested in igo, penspinning, and jogging."
 web_design: "AJ"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
