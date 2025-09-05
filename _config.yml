@@ -13,8 +13,8 @@ header:
  title: "Mijnfotospace"
  subtitle: "by {^-^}"
 footer:
- name: "Hey there, my name is Shinaola"
- bio: "I am a software developer from San Diego. I am interested in igo, penspinning, and jogging."
+ name: "Welcome to Nana's space"
+ bio: "Likes: yarn, plastic bags, Fancy Feast cuts in gravy. Dislikes: strangers, pate, beef"
 web_design: "AJ"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
